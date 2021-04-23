@@ -1,0 +1,56 @@
+Java 8
+======
+software link
+==============
+https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
+How to install?
+==============
+https://www.shaileshjha.com/step-by-step-how-to-download-and-install-java-se-jdk-8-on-windows-10/
+
+Eclipse
+=======
+software link
+==============
+https://www.eclipse.org/downloads/packages/release/helios/sr2/eclipse-ide-java-ee-developers
+==============
+https://www.technipages.com/install-eclipse-windows-10
+
+MySql
+=====
+software link
+==============
+https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
+How to install?
+==============
+https://www.sqlshack.com/how-to-install-mysql-database-server-8-0-19-on-windows-10/
+
+STS(Spring Tool Suite)
+======================
+software link and How to install?
+============================
+https://www.javatpoint.com/spring-boot-download-and-install-sts-ide
+
+POSTMan
+=======
+software link
+==============
+https://www.postman.com/product/rest-client/
+How to install?
+==============
+https://www.toolsqa.com/postman/download-and-install-postman/
+
+Visual Studio Code
+==================
+
+software link & How to install?
+============================
+https://www.toolsqa.com/blogs/install-visual-studio-code/
+
+
+GIT
+===
+https://phoenixnap.com/kb/how-to-install-git-windows
+
+GITBASH
+========
+https://www.educative.io/edpresso/how-to-install-git-bash-in-windows
